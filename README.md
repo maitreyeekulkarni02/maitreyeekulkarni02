@@ -1,57 +1,113 @@
-# 👋 Hi, I’m Maitreyee Kulkarni
+<!-- ======================= -->
+<!--       HERO BANNER       -->
+<!-- ======================= -->
 
-🎓 Engineering Student | 💻 Programmer | 🔐 Cybersecurity Enthusiast  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maitreyeekulkarni02/maitreyeekulkarni02/main/assets/banner.png" width="100%" alt="Maitreyee Kulkarni Banner">
+</p>
 
-I am passionate about **secure software development**, **problem-solving**, and **learning emerging technologies**.  
-I enjoy building projects that combine **programming fundamentals** with **real-world security concepts**.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress;Building+Real-World+AI+Systems;Machine+Learning+%7C+Computer+Vision+%7C+Generative+AI;Open+to+AI%2FML+Internships" alt="Typing SVG" />
+  </a>
+</p>
 
----
+<h1 align="center">Hi, I'm Maitreyee Kulkarni </h1>
 
-## 🚀 Skills & Technologies
+<h3 align="center">
+AI Engineer in Progress • Machine Learning • Computer Vision • Full Stack AI
+</h3>
 
-**Programming Languages**
-- Java
-- C
-- C++
-- Python 
-
-**Cybersecurity & Tools**
-- Basics of Ethical Hacking
-- Secure Coding Practices
-- Linux Fundamentals
-- Git & GitHub
-
-**Other Skills**
-- Data Structures & Algorithms
-- Orator
-- Object-Oriented Programming
-- Problem Solving
-- Team Collaboration
-- Leadership
----
-
-## 🛠️ Projects
-Here are some of the projects I am working on / planning to build:
-- 🔐 Cybersecurity tools & scripts
-- AI/ML based Projects
-- 🧮 Data Structures & Algorithm implementations
-- 🖥️ Projects based on Python and Java
-
-(Projects will be updated regularly 🚧)
+<p align="center">
+Building intelligent AI products that solve real-world problems.
+</p>
 
 ---
 
-## 📚 Currently Learning
-- Advanced Python programming
-- Cybersecurity tools and techniques
-- Secure application development
+##  About Me
+
+I'm **Maitreyee Kulkarni**, an **Artificial Intelligence & Data Science** student passionate about building AI solutions that solve real-world problems.
+
+My interests include:
+
+- Machine Learning
+- Computer Vision
+- Generative AI
+- Full-Stack AI Engineering
+- AI Deployment & MLOps
+
+I'm currently building AI products in education, developer productivity, and industrial intelligence while continuously learning modern software engineering and AI system design.
+---
+
+# Currently Building
+
+- AI Career Copilot
+- SteelVision AI
+- RepoMind AI
+- GameVerse AI
+- ChronoVerse AI (Coming Soon)
 
 ---
 
-## 📫 Connect With Me
-- 🔗 LinkedIn: *www.linkedin.com/in/maitreyee-kulkarni-95461b28a*
-- 📧 Email: *kulkarnimaitreyee10@gmail.com*
+## Currently Learning
+
+- Deep Learning
+- MLOps
+- Large Language Models (LLMs)
+- AI System Design
+- Cloud Deployment
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me!
+## Tech Stack
+
+**Languages:** Python • JavaScript • Java • C++ • SQL
+
+**AI/ML:** PyTorch • TensorFlow • OpenCV • YOLO • Scikit-learn • Pandas • NumPy
+
+**Frontend:** React • Vite • Tailwind CSS
+
+**Backend:** FastAPI • Flask
+
+**Databases:** PostgreSQL • SQLite • Supabase
+
+**Tools:** Docker • Git • GitHub • Linux
+
+---
+
+##  Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| AI Career Copilot | AI-powered platform helping students prepare for internships and placements. |
+| SteelVision AI | Computer Vision system for industrial defect detection using YOLO. |
+| RepoMind AI | AI assistant for understanding GitHub repositories. |
+| GameVerse AI | AI-powered gamified learning platform. |
+| ChronoVerse AI | Interactive AI-powered educational experience *(In Development)*. |
+
+---
+
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=maitreyeekulkarni02&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitreyeekulkarni02&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=maitreyeekulkarni02&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+
+## Let's Connect
+
+- LinkedIn: www.linkedin.com/in/maitreyee-kulkarni-95461b28a
+- Email: kulkarnimaitreyee10@gmail.com
+---
+
+Thanks for visiting my profile!
+
+Let's build something amazing together.
