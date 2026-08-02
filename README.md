@@ -3,10 +3,16 @@
 <!-- ======================= -->
 
 <p align="center">
-  <img src="https://github.com/maitreyeekulkarni02/maitreyeekulkarni02/blob/main/assets/banner.png" alt="Maitreyee Kulkarni Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/maitreyeekulkarni02/maitreyeekulkarni02/main/assets/banner.png" width="100%" alt="Maitreyee Kulkarni Banner">
 </p>
 
-<h1 align="center">Hi, I'm Maitreyee Kulkarni 👋</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress;Building+Real-World+AI+Systems;Machine+Learning+%7C+Computer+Vision+%7C+Generative+AI;Open+to+AI%2FML+Internships" alt="Typing SVG" />
+  </a>
+</p>
+
+<h1 align="center">Hi, I'm Maitreyee Kulkarni </h1>
 
 <h3 align="center">
 AI Engineer in Progress • Machine Learning • Computer Vision • Full Stack AI
@@ -18,132 +24,88 @@ Building intelligent AI products that solve real-world problems.
 
 ---
 
-# 🚀 About Me
+##  About Me
 
-I'm an Artificial Intelligence & Data Science student passionate about building production-ready AI applications.
+I'm **Maitreyee Kulkarni**, an **Artificial Intelligence & Data Science** student passionate about building AI solutions that solve real-world problems.
 
 My interests include:
 
-- 🤖 Machine Learning
-- 👁 Computer Vision
-- 🧠 Generative AI
-- ⚡ Full Stack AI Development
-- ☁️ MLOps & AI Deployment
+- Machine Learning
+- Computer Vision
+- Generative AI
+- Full-Stack AI Engineering
+- AI Deployment & MLOps
 
-I enjoy transforming ideas into practical AI products through clean engineering, continuous learning, and modern software development.
+I'm currently building AI products in education, developer productivity, and industrial intelligence while continuously learning modern software engineering and AI system design.
+---
+
+# Currently Building
+
+- AI Career Copilot
+- SteelVision AI
+- RepoMind AI
+- GameVerse AI
+- ChronoVerse AI (Coming Soon)
 
 ---
 
-# 🔭 Currently Building
+## Currently Learning
 
-- 🚀 AI Career Copilot
-- 🏭 SteelVision AI
-- 🧠 RepoMind AI
-- 🎮 GameVerse AI
-- ⏳ ChronoVerse AI (Coming Soon)
-
----
-
-# 🌱 Currently Learning
-
-- Advanced Machine Learning
 - Deep Learning
 - MLOps
-- System Design
-- Distributed AI Systems
+- Large Language Models (LLMs)
+- AI System Design
+- Cloud Deployment
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-### Languages
+**Languages:** Python • JavaScript • Java • C++ • SQL
 
-Python • JavaScript • Java • C++ • SQL
+**AI/ML:** PyTorch • TensorFlow • OpenCV • YOLO • Scikit-learn • Pandas • NumPy
 
-### AI & ML
+**Frontend:** React • Vite • Tailwind CSS
 
-PyTorch • TensorFlow • Scikit-learn • OpenCV • YOLO • Pandas • NumPy
+**Backend:** FastAPI • Flask
 
-### Frontend
+**Databases:** PostgreSQL • SQLite • Supabase
 
-React • Vite • Tailwind CSS
-
-### Backend
-
-FastAPI • Flask • Node.js
-
-### Database
-
-SQLite • PostgreSQL • Supabase
-
-### DevOps & Tools
-
-Git • GitHub • Docker • Linux
+**Tools:** Docker • Git • GitHub • Linux
 
 ---
 
-# ⭐ Featured Projects
+##  Featured Projects
 
-### 🤖 AI Career Copilot
-
-AI-powered career guidance platform helping students prepare for placements.
-
----
-
-### 🏭 SteelVision AI
-
-Industrial defect detection using Computer Vision and YOLO.
+| Project | Description |
+|---------|-------------|
+| AI Career Copilot | AI-powered platform helping students prepare for internships and placements. |
+| SteelVision AI | Computer Vision system for industrial defect detection using YOLO. |
+| RepoMind AI | AI assistant for understanding GitHub repositories. |
+| GameVerse AI | AI-powered gamified learning platform. |
+| ChronoVerse AI | Interactive AI-powered educational experience *(In Development)*. |
 
 ---
 
-### 🧠 RepoMind AI
 
-AI-powered repository understanding assistant.
-
----
-
-### 🎮 GameVerse AI
-
-Gamified AI-powered learning platform.
-
----
-
-### ⏳ ChronoVerse AI
-
-Interactive AI-powered educational experience.
-(Currently under development.)
-
----
-
-# 📈 GitHub Analytics
-
-<!-- GitHub Stats -->
+## 📊 GitHub Analytics
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=maitreyeekulkarni02&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitreyeekulkarni02&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=maitreyeekulkarni02&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitreyeekulkarni02&layout=compact&theme=github_dark&hide_border=true"/>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=maitreyeekulkarni02&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
 
-<p align="center">
+## 🤝 Let's Connect
 
-<img src="https://streak-stats.demolab.com?user=maitreyeekulkarni02&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/maitreyee-kulkarni-95461b28a
-- 📧 Email: kulkarnimaitreyee10@gmail.com
-
+- LinkedIn: www.linkedin.com/in/maitreyee-kulkarni-95461b28a
+- Email: kulkarnimaitreyee10@gmail.com
 ---
 
 ⭐ Thanks for visiting my profile!
