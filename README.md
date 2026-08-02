@@ -3,7 +3,7 @@
 <!-- ======================= -->
 
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Maitreyee Kulkarni Banner" width="100%">
+  <img src="[YOUR_BANNER_IMAGE_URL_HERE](https://github.com/maitreyeekulkarni02/maitreyeekulkarni02/blob/main/assets/banner.png)" alt="Maitreyee Kulkarni Banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Maitreyee Kulkarni 👋</h1>
