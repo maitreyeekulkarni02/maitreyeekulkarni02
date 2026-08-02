@@ -59,7 +59,7 @@ I'm currently building AI products in education, developer productivity, and ind
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages:** Python • JavaScript • Java • C++ • SQL
 
@@ -88,7 +88,7 @@ I'm currently building AI products in education, developer productivity, and ind
 ---
 
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=maitreyeekulkarni02&show_icons=true&theme=github_dark&hide_border=true"/>
@@ -102,12 +102,12 @@ I'm currently building AI products in education, developer productivity, and ind
 ---
 
 
-## 🤝 Let's Connect
+## Let's Connect
 
 - LinkedIn: www.linkedin.com/in/maitreyee-kulkarni-95461b28a
 - Email: kulkarnimaitreyee10@gmail.com
 ---
 
-⭐ Thanks for visiting my profile!
+Thanks for visiting my profile!
 
 Let's build something amazing together.
