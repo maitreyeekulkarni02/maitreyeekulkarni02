@@ -100,7 +100,11 @@ I'm currently building AI products in education, developer productivity, and ind
 </p>
 
 ---
+## 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=maitreyeekulkarni02&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+</p>
 
 ## Let's Connect
 
@@ -111,3 +115,9 @@ I'm currently building AI products in education, developer productivity, and ind
 Thanks for visiting my profile!
 
 Let's build something amazing together.
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maitreyeekulkarni02&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
