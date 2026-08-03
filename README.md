@@ -103,7 +103,7 @@ I'm currently building AI products in education, developer productivity, and ind
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maitreyeekulkarni02&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=maitreyeekulkarni02"/>
 </p>
 
 ## Let's Connect
