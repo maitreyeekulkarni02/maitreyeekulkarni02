@@ -123,3 +123,11 @@ Gamified learning platform combining AI with interactive learning experiences.
 <p align="center">
   <i>Building. Learning. Shipping.</i>
 </p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maitreyeekulkarni02/maitreyeekulkarni02/main/assets/github-contribution-snake.svg" alt="GitHub Contribution Snake" width="100%">
+</p>
