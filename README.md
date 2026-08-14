@@ -131,3 +131,20 @@ Gamified learning platform combining AI with interactive learning experiences.
 <p align="center">
   <img src="https://raw.githubusercontent.com/maitreyeekulkarni02/maitreyeekulkarni02/main/assets/github-contribution-snake.svg" alt="GitHub Contribution Snake" width="100%">
 </p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%">
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maitreyeekulkarni02/maitreyeekulkarni02/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</p>
+
