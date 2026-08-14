@@ -1,4 +1,4 @@
-name: Metrics
+﻿name: Metrics
 
 on:
   workflow_dispatch:
@@ -30,4 +30,3 @@ jobs:
 
           plugin_isocalendar: yes
 
-          plugin_achievements: yes
