@@ -13,17 +13,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-snake.svg
-            dist/github-contribution-snake-dark.svg?palette=github-dark
+            assets/github-contribution-snake.svg
+            assets/github-contribution-snake-dark.svg?palette=github-dark
 
-      - name: Deploy snake
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Commit generated snake
+        uses: EndBug/add-and-commit@v9
         with:
-          build_dir: dist
-        env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+          message: "Update contribution snake"
+          add: "assets/github-contribution-snake.svg assets/github-contribution-snake-dark.svg"
