@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/maitreyeekulkarni02/maitreyeekulkarni02/main/assets/banner.png" width="100%" alt="Maitreyee Kulkarni">
 </p>
 
-<h1 align="center">Hi, I'm Maitreyee Kulkarni 👋</h1>
+<h1 align="center">Hi, I'm Maitreyee Kulkarni </h1>
 
 <p align="center">
   <b>AI & Data Science Student · AI/ML Engineer in Progress</b>
@@ -24,7 +24,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm an **Artificial Intelligence & Data Science student** focused on building
 real-world AI applications and improving my skills in software engineering,
@@ -32,16 +32,16 @@ machine learning and AI system development.
 
 ### Areas I work with
 
-- 🤖 Machine Learning & Deep Learning
-- 👁️ Computer Vision
-- 🧠 Generative AI & LLM Applications
-- ⚙️ MLOps & AI Deployment
-- 💻 Full-Stack AI Applications
-- 📊 Data Science
+- Machine Learning & Deep Learning
+- Computer Vision
+- Generative AI & LLM Applications
+- MLOps & AI Deployment
+- Full-Stack AI Applications
+- Data Science
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 `Python` `C++` `Java` `JavaScript` `SQL`
@@ -57,26 +57,26 @@ machine learning and AI system development.
 
 ---
 
-## ⭐ Selected Work
+##  Selected Work
 
-### 🤖 AI Career Copilot
+###  AI Career Copilot
 AI-powered platform designed to help students prepare for internships,
 placements and career opportunities.
 
-### 👁️ SteelVision AI
+###  SteelVision AI
 Computer vision based industrial inspection system for detecting visible
 machine defects.
 
-### 🧠 RepoMind AI
+###  RepoMind AI
 AI-powered system designed to help developers understand and navigate
 GitHub repositories.
 
-### 🎮 GameVerse AI
+###  GameVerse AI
 Gamified learning platform combining AI with interactive learning experiences.
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - Deep Learning
 - MLOps
@@ -87,7 +87,7 @@ Gamified learning platform combining AI with interactive learning experiences.
 
 ---
 
-## 📈 GitHub Activity
+##  GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maitreyeekulkarni02&show_icons=true&hide_border=true&rank_icon=github" height="170">
@@ -96,17 +96,17 @@ Gamified learning platform combining AI with interactive learning experiences.
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
-- 🥇 Active contributor to AI, ML and software projects
-- 🔐 Cybersecurity club leadership experience
-- 📜 Technical certifications in programming and digital safety
-- 🏅 NASA Hall of Fame recognition
-- 🚀 Hackathon & innovation project participation
+-  Active contributor to AI, ML and software projects
+-  Cybersecurity club leadership experience
+-  Technical certifications in programming and digital safety
+-  NASA Hall of Fame recognition
+-  Hackathon & innovation project participation
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maitreyee-kulkarni-95461b28a">
@@ -126,7 +126,7 @@ Gamified learning platform combining AI with interactive learning experiences.
 
 ---
 
-## 🐍 Contribution Activity
+##  Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/maitreyeekulkarni02/maitreyeekulkarni02/main/assets/github-contribution-snake.svg" alt="GitHub Contribution Snake" width="100%">
